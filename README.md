@@ -213,12 +213,7 @@ Navegación en la Aplicación
 
     Módulo de Informes: Genera y exporta informes operativos y visualiza dashboards de análisis.
 
-Contribuciones
 
-Si deseas contribuir al proyecto, por favor realiza un fork y crea una pull request. Asegúrate de seguir las mejores prácticas de codificación y probar el código antes de enviarlo.
-Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ¡Gracias por usar el Sistema de Administración Hospitalaria!
 
